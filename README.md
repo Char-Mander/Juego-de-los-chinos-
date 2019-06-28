@@ -1,2 +1,2 @@
 # Juego-de-los-chinos-
-En c++, todo por consola
+2015
